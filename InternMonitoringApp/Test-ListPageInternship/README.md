@@ -1,8 +1,8 @@
 # Deskripsi Pengujian
 
-| Objek Pengujian   | Hasil      | Lampiran                                                                          |
-| ----------------- | ---------- | --------------------------------------------------------------------------------- |
-| Search Internship | Berhasil ✔ | [dokumentasi](TestPlanSeleniumWebDriver_1214032_AlNoviantiRamadhaniSulaksono.pdf) |
+| Objek Pengujian      | Hasil      | Lampiran                                                                          |
+| -------------------- | ---------- | --------------------------------------------------------------------------------- |
+| List Page Internship | Berhasil ✔ | [dokumentasi](TestPlanSeleniumWebDriver_1214032_AlNoviantiRamadhaniSulaksono.pdf) |
 
 # Panduan Penggunaan
 
